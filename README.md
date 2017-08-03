@@ -5,8 +5,13 @@ A curated list of example iOS apps developed in Swift.
 
 # About
 # How to Use
-## Content
+Example-iOS-Apps is an amazing list for people who is begginer and learning ios development and for ios developer who need any example app or feature, so the best ways to use are:
+- Ask for help on our [Twitter](https://twitter.com/imjog24) or drope us a mail on jogendra.singh.jog@gmail.com
+- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
+- Go through our *Content Menu*
 
+## Content
+* [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
 ## Author
 
 Jogendra Singh, jogendra.singh.jog@gmail.com
