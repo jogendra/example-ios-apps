@@ -21,5 +21,5 @@ Jogendra Singh, jogendra.singh.jog@gmail.com
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
 - If you have any issue or want **help**, please drop me a mail on jogendra.singh.jog@gmail.com
-# Contributing and License
+# License
  * Distributed under the MIT license. See LICENSE for more information.
