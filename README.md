@@ -14,7 +14,7 @@ Example-iOS-Apps is an amazing list for people who is begginer and learning ios 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
 * [Stopwatch](https://github.com/imjog/stopwatch) - Basic Stop Watch & Countdown app for iOS devices. Created for learning purpose.
-* [To Do List](https://github.com/imjog/iOS-ToDoListApp) - Basic To Do List App for iOS devices using swift and xcode!
+* [To Do List](https://github.com/imjog/todolist-ios-app) - Basic To Do List App for iOS devices using swift and xcode!
 
 ## Author
 
