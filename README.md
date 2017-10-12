@@ -13,14 +13,15 @@ Example-iOS-Apps is an amazing list for people who is begginer and learning ios 
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
-* [AppleWatchCalculator](https://github.com/BalestraPatrick/AppleWatchCalculator) - A calculator for your Apple Watch but only if you have fingers small enough to press the buttons.
 * [Stopwatch](https://github.com/imjog/stopwatch) - Basic Stop Watch & Countdown app for iOS devices. Created for learning purpose.
 * [To Do List](https://github.com/imjog/todolist-ios-app) - Basic To Do List App for iOS devices using swift and xcode.
 * [Gravity Blocks](https://github.com/imjog/gravityBlocks) - A basic iOS app on basic physics concept gravity and elasticity.
 * [QR Blank](https://github.com/kahopoon/QR-Blank) - A basic QR code scanning app that checks URLs safety before advancing.
+* [AppleWatchCalculator](https://github.com/BalestraPatrick/AppleWatchCalculator) - A calculator for your Apple Watch but only if you have fingers small enough to press the buttons.
 * [done-swift](https://github.com/FancyPixel/done-swift) - Sample app to demonstrate data sharing between a WatchKit app and its main app using Realm
-* [Californication](https://github.com/vanyaland/Californication) - California points of interest
-* [how-much](https://github.com/dkhamsing/how-much) - Simple app to record how much things cost
+* [how-much](https://github.com/dkhamsing/how-much) - A simple iOS app to record how much things cost using various data persistence implementations.
+
+
 
 ## Author
 
