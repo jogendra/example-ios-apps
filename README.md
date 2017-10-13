@@ -17,6 +17,8 @@ Example-iOS-Apps is an amazing list for people who is begginer and learning ios 
 * [To Do List](https://github.com/imjog/todolist-ios-app) - Basic To Do List App for iOS devices using swift and xcode.
 * [Gravity Blocks](https://github.com/imjog/gravityBlocks) - A basic iOS app on basic physics concept gravity and elasticity.
 * [QR Blank](https://github.com/kahopoon/QR-Blank) - A basic QR code scanning app that checks URLs safety before advancing.
+* [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios) - An iOS version of the firefox browser
+* [Chats](https://github.com/acani/Chats) - Open source messaging app
 
 ## Author
 
