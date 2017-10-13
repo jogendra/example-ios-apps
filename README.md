@@ -22,6 +22,7 @@ Example-iOS-Apps is an amazing list for people who is begginer and learning ios 
 * [how-much](https://github.com/dkhamsing/how-much) - A simple iOS app to record how much things cost using various data persistence implementations.
 * [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios) - An iOS version of the firefox browser
 * [Chats](https://github.com/acani/Chats) - Open source messaging app
+* [technex-ios](https://github.com/imjog/technex-ios) - iOS app for Technex, IIT(BHU) Varanasi. This project is closed before completion. You can use this app for learning purpose.
 
 ## Author
 
