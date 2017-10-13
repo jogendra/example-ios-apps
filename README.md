@@ -39,7 +39,7 @@ Jogendra Singh, jogendra.singh.jog@gmail.com
 - If you want to **contribute**, submit a **pull request**
 - If you have any issue or want **help**, please drop me a mail on jogendra.singh.jog@gmail.com
 ### Contributors
-Please add your name to contributors list after making atleast one contribution to this repo. Add your name is same line as you are seeing the pattern.
+Please add your name to contributors list after making atleast one contribution to this repo. Add your name in same line as you are seeing the pattern.
 1. [Jogendra Singh](https://github.com/imjog) 2. [NSMyself](https://github.com/NSMyself) 3. [hoffmanjoshua](https://github.com/hoffmanjoshua) 4. [Axieum](https://github.com/Axieum)
 
 # License
