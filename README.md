@@ -1,4 +1,5 @@
 # Example iOS Apps
+![Language](https://img.shields.io/badge/language-Swift%203-orange.svg)
 [![Twitter](https://img.shields.io/badge/twitter-@imjog24-blue.svg?style=flat)](https://twitter.com/imjog24)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&style=flat-square)]()
