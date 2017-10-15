@@ -4,9 +4,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&style=flat-square)]()
 [![HitCount](http://hits.dwyl.io/imjog/example-ios-apps.svg)](http://hits.dwyl.io/imjog/example-ios-apps)<br>
-A curated list of example iOS apps developed in Swift.
+A curated list of Open Source example iOS apps developed in Swift.
 
-# About
 # How to Use
 Example-iOS-Apps is an amazing list for people who is begginer and learning ios development and for ios developer who need any example app or feature, so the best ways to use are:
 - Ask for help on our [Twitter](https://twitter.com/imjog24) or drope us a mail on jogendra.singh.jog@gmail.com
