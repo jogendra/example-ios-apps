@@ -25,6 +25,7 @@ Example-iOS-Apps is an amazing list for people who is begginer and learning ios 
 * [Chats](https://github.com/acani/Chats) - Open source messaging app
 * [technex-ios](https://github.com/imjog/technex-ios) - iOS app for Technex, IIT(BHU) Varanasi. This project is closed before completion. You can use this app for learning purpose.
 * [GitHawk](https://github.com/rnystrom/GitHawk) - A GitHub project manager app for iOS
+* [CustomCamera](https://github.com/ChernyshenkoTaras/CustomCamera) - iOS project what demonstrait how to create custom camera
 
 ## Author
 
