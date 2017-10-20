@@ -25,6 +25,8 @@ Example-iOS-Apps is an amazing list for people who is begginer and learning ios 
 * [Chats](https://github.com/acani/Chats) - Open source messaging app
 * [technex-ios](https://github.com/imjog/technex-ios) - iOS app for Technex, IIT(BHU) Varanasi. This project is closed before completion. You can use this app for learning purpose.
 * [GitHawk](https://github.com/rnystrom/GitHawk) - A GitHub project manager app for iOS
+* [VPN On](https://github.com/lexrus/VPNOn) - A basic iOS app for VPN which can be automatically connected for a pre-specified domain
+* [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS) - An iOS version of the WordPress app for blogging
 
 ## Author
 
@@ -42,7 +44,7 @@ Jogendra Singh, jogendra.singh.jog@gmail.com
 - If you have any issue or want **help**, please drop me a mail on jogendra.singh.jog@gmail.com
 ### Contributors
 Please add your name to contributors list after making atleast one contribution to this repo. Add your name in same line as you are seeing the pattern.
-1. [Jogendra Singh](https://github.com/imjog) 2. [NSMyself](https://github.com/NSMyself) 3. [hoffmanjoshua](https://github.com/hoffmanjoshua) 4. [Axieum](https://github.com/Axieum) 5. [Rizwan](https://github.com/rizwankce)
+1. [Jogendra Singh](https://github.com/imjog) 2. [NSMyself](https://github.com/NSMyself) 3. [hoffmanjoshua](https://github.com/hoffmanjoshua) 4. [Axieum](https://github.com/Axieum) 5. [Rizwan](https://github.com/rizwankce) 6. [vartika-arora](https://github.com/vartika-arora)
 
 # License
  * Distributed under the MIT license. See LICENSE for more information.
