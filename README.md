@@ -25,6 +25,8 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Chats](https://github.com/acani/Chats) - Open source messaging app
 * [technex-ios](https://github.com/imjog/technex-ios) - iOS app for Technex, IIT(BHU) Varanasi. This project is closed before completion. You can use this app for learning purpose.
 * [GitHawk](https://github.com/rnystrom/GitHawk) - A GitHub project manager app for iOS
+* [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress's app for iOS, written in Swift
+* [Artsy](https://github.com/artsy/eidolon) - An art auction app.
 * [CustomCamera](https://github.com/ChernyshenkoTaras/CustomCamera) - iOS project what demonstrait how to create custom camera
 * [Edhita](https://github.com/tnantoka/edhita) - Open source text editor written for iOS in Swift
 * [5Calls](https://github.com/5calls/ios) - iOS app for 5Calls.org
