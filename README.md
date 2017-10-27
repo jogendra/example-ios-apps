@@ -40,6 +40,11 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Blurry](https://github.com/meteochu/Blurry) - A small image blur tool for iOS.
 * [Files](https://github.com/steventroughtonsmith/files-ios) - File Browser for iOS.
 * [Kickstarter](https://github.com/kickstarter/ios-oss) - A Kickstarter app for iOS.
+* [Alfresco](https://github.com/Alfresco/alfresco-ios-app) - Alfresco is the open platform iOS app for business-critical content management and collaboration.
+* [SwiftHN](https://github.com/Dimillian/SwiftHN) - A iOS app for Hacker News.
+* [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - A iOS client for Designer News.
+* [FlappySwift](https://github.com/fullstackio/FlappySwift) - Flappy Bird game written in iOS.
+* [Yep](https://github.com/CatchChat/Yep) - A community where geniuses meet.
 
 ## Author
 
@@ -57,7 +62,7 @@ Jogendra Singh, jogendra.singh.jog@gmail.com
 - If you have any issue or want **help**, please drop me a mail on jogendra.singh.jog@gmail.com
 ### Contributors
 Please add your name to contributors list after making atleast one contribution to this repo. Add your name in same line as you are seeing the pattern.
-1. [Jogendra Singh](https://github.com/imjog) 2. [NSMyself](https://github.com/NSMyself) 3. [hoffmanjoshua](https://github.com/hoffmanjoshua) 4. [Axieum](https://github.com/Axieum) 5. [Rizwan](https://github.com/rizwankce) 6. [vartika-arora](https://github.com/vartika-arora) 7. [Melissa](https://github.com/melissa3000) 8.[vaqueromena](https://github.com/vaqueromena)
+1. [Jogendra Singh](https://github.com/imjog) 2. [NSMyself](https://github.com/NSMyself) 3. [hoffmanjoshua](https://github.com/hoffmanjoshua) 4. [Axieum](https://github.com/Axieum) 5. [Rizwan](https://github.com/rizwankce) 6. [vartika-arora](https://github.com/vartika-arora) 7. [Melissa](https://github.com/melissa3000) 8.[vaqueromena](https://github.com/vaqueromena) 9.[Shashi](https://github.com/srshashi)
 
 # License
  * Distributed under the MIT license. See LICENSE for more information.
