@@ -46,8 +46,6 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - Flappy Bird game written in iOS.
 * [Yep](https://github.com/CatchChat/Yep) - A community where geniuses meet.
 
-
-
 ## Author
 
 Jogendra Singh, jogendra.singh.jog@gmail.com
