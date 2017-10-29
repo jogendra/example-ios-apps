@@ -8,7 +8,7 @@ A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
 Example-iOS-Apps is an amazing list for people who are begginers and learning ios development and for ios developers who need any example app or feature. The best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/imjog24) or drope us a mail on jogendra.singh.jog@gmail.com
+- Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on jogendra.singh.jog@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
@@ -28,7 +28,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [30 days of React Native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 * [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress's app for iOS, written in Swift
 * [Artsy](https://github.com/artsy/eidolon) - An art auction app.
-* [CustomCamera](https://github.com/ChernyshenkoTaras/CustomCamera) - iOS project what demonstrait how to create custom camera
+* [CustomCamera](https://github.com/ChernyshenkoTaras/CustomCamera) - iOS project that demonstrates how to create a custom camera
 * [Edhita](https://github.com/tnantoka/edhita) - Open source text editor written for iOS in Swift
 * [5Calls](https://github.com/5calls/ios) - iOS app for 5Calls.org
 * [BoardBank](https://github.com/richardxyx/BoardBank) -  Money Manager for Board Games
@@ -39,7 +39,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS) - An iOS version of the WordPress app for blogging
 * [Blurry](https://github.com/meteochu/Blurry) - A small image blur tool for iOS.
 * [Files](https://github.com/steventroughtonsmith/files-ios) - File Browser for iOS.
-* [Kickstarter](https://github.com/kickstarter/ios-oss) - A Kickstarter app for iOS.
+* [Kickstarter](https://github.com/kickstarter/ios-oss) - The official Kickstarter app for iOS.
 * [Alfresco](https://github.com/Alfresco/alfresco-ios-app) - Alfresco is the open platform iOS app for business-critical content management and collaboration.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A iOS app for Hacker News.
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - A iOS client for Designer News.
