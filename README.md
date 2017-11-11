@@ -66,4 +66,4 @@ Please add your name to contributors list after making atleast one contribution 
 1. [Jogendra Singh](https://github.com/imjog) 2. [NSMyself](https://github.com/NSMyself) 3. [hoffmanjoshua](https://github.com/hoffmanjoshua) 4. [Axieum](https://github.com/Axieum) 5. [Rizwan](https://github.com/rizwankce) 6. [vartika-arora](https://github.com/vartika-arora) 7. [Melissa](https://github.com/melissa3000) 8. [vaqueromena](https://github.com/vaqueromena) 9. [Shashi](https://github.com/srshashi)
 
 # License
- * Distributed under the MIT license. See LICENSE for more information.
+ * Distributed under the MIT license. See [LICENSE](https://github.com/imjog/example-ios-apps/blob/master/LICENSE) for more information.
