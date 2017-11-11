@@ -50,7 +50,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 
 ## Author
 
-Jogendra Singh, jogendra.singh.jog@gmail.com
+[Jogendra Singh](https://github.com/imjog), jogendra.singh.jog@gmail.com
 
 ## What's next
 
