@@ -57,7 +57,6 @@ Jogendra Singh, jogendra.singh.jog@gmail.com
 - Any suggestions?
 
 ## Contribution
-* [See the guide](https://github.com/imjog/example-ios-apps/blob/master/CONTRIBUTING.md)
 - If you found a **bug**, open an **issue**
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
