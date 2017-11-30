@@ -36,7 +36,6 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Swift 30 Projects](https://github.com/soapyigu/Swift30Projects) -  30 mini Swift Apps for self-study
 * [crime mapper](https://github.com/swwol/CrimeMapper) - A data visualisation tool that adds publicly available crime data from UK police forces to an interactive map
 * [VPN On](https://github.com/lexrus/VPNOn) - A basic iOS app for VPN which can be automatically connected for a pre-specified domain
-* [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS) - An iOS version of the WordPress app for blogging
 * [Blurry](https://github.com/meteochu/Blurry) - A small image blur tool for iOS.
 * [Files](https://github.com/steventroughtonsmith/files-ios) - File Browser for iOS.
 * [Kickstarter](https://github.com/kickstarter/ios-oss) - The official Kickstarter app for iOS.
