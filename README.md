@@ -59,7 +59,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 ## Contribution
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
-- If you have any issue or want **help**, please drop me a mail on jogendra.singh.jog@gmail.com
+- If you have any issue or want **help**, please drop me a mail on jogendra.iitbhu@gmail.com
 
 # License
  * Distributed under the MIT license. See [LICENSE](https://github.com/imjog/example-ios-apps/blob/master/LICENSE) for more information.
