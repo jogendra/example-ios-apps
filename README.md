@@ -48,6 +48,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - Simple and beautiful barcode scanner.
 * [Social Logins](https://github.com/imjog/Social-Logins-iOS) - Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose.
 * [Rocket.Chat.iOS](https://github.com/imjog/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
+* [SUSI iOS](https://github.com/fossasia/susi_iOS) - SUSI AI iOS app by FOSSASIA.
 
 ## Author
 
