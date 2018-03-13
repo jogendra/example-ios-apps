@@ -11,6 +11,9 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 - Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on jogendra.singh.jog@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
+## iOS Apps that Take Part in Google Summer of Code
+* [Rocket.Chat.iOS](https://github.com/imjog/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
+* [SUSI iOS](https://github.com/fossasia/susi_iOS) - SUSI AI iOS app by FOSSASIA.
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
@@ -47,8 +50,6 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [TweedleDumb](https://github.com/IanKeen/TweetleDumb) - A mock Twitter client built with MVVM and NavigationControllers. Small codebase, built with best practices in mind to demonstrate said practices. Great for learning purposes.
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - Simple and beautiful barcode scanner.
 * [Social Logins](https://github.com/imjog/Social-Logins-iOS) - Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose.
-* [Rocket.Chat.iOS](https://github.com/imjog/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
-* [SUSI iOS](https://github.com/fossasia/susi_iOS) - SUSI AI iOS app by FOSSASIA.
 
 ## Author
 
