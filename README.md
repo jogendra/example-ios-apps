@@ -68,5 +68,8 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 - If you want to **contribute**, submit a **pull request**
 - If you have any issue or want **help**, please drop me a mail on jogendra.iitbhu@gmail.com
 
+### Inspired by:
+[Awesome iOS](https://github.com/vsouza/awesome-ios)
+
 # License
  * Distributed under the MIT license. See [LICENSE](https://github.com/imjog/example-ios-apps/blob/master/LICENSE) for more information.
