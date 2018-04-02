@@ -54,6 +54,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [TweedleDumb](https://github.com/IanKeen/TweetleDumb) - A mock Twitter client built with MVVM and NavigationControllers. Small codebase, built with best practices in mind to demonstrate said practices. Great for learning purposes.
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - Simple and beautiful barcode scanner.
 * [Social Logins](https://github.com/imjog/Social-Logins-iOS) - Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose.
+* [Awesome ML](https://github.com/eugenebokhan/Awesome-ML) - Discover, download, compile & launch different image processing CoreML models on iOS.
 
 ## Author
 
