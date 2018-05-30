@@ -58,6 +58,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Social Logins](https://github.com/imjog/Social-Logins-iOS) - Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose.
 * [Awesome ML](https://github.com/eugenebokhan/Awesome-ML) - Discover, download, compile & launch different image processing CoreML models on iOS.
 * [Applozic iOS Swift Chat](https://github.com/AppLozic/ApplozicSwift) - Chat app sample and chat SDK to integrate into your iOS swift app.
+* [Kommunicate iOS Chat](https://github.com/Kommunicate-io/Kommunicate-iOS-SDK) - Kommunicate.io support chat SDK to integrate live chat and bot integrations for customer support into your iOS app.
 
 ## Author
 
