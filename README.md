@@ -57,6 +57,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - Simple and beautiful barcode scanner.
 * [Social Logins](https://github.com/imjog/Social-Logins-iOS) - Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose.
 * [Awesome ML](https://github.com/eugenebokhan/Awesome-ML) - Discover, download, compile & launch different image processing CoreML models on iOS.
+* [Applozic iOS Swift Chat](https://github.com/AppLozic/ApplozicSwift) - Chat app sample and chat SDK to integrate into your iOS swift app.
 
 ## Author
 
