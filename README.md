@@ -8,7 +8,7 @@ A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
 Example-iOS-Apps is an amazing list for people who are begginers and learning ios development and for ios developers who need any example app or feature. The best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on jogendra.iitbhu@gmail.com
+- Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on imjog24@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 ## iOS Apps that Take Part in Google Summer of Code
@@ -85,7 +85,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 ## Contribution
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
-- If you have any issue or want **help**, please drop me a mail on jogendra.iitbhu@gmail.com
+- If you have any issue or want **help**, please drop me a mail on imjog24@gmail.com@gmail.com
 
 ### Inspired by:
 [Awesome iOS](https://github.com/vsouza/awesome-ios)
