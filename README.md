@@ -20,6 +20,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Amahi](https://github.com/amahi/ios) - iOS application written in Swift, from scratch.
 * [Phimp.me](https://github.com/imjog/phimpme-iOS) - Photo Image Editor and Sharing App.
+* [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
