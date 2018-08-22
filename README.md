@@ -8,7 +8,7 @@ A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
 Example-iOS-Apps is an amazing list for people who are begginers and learning ios development and for ios developers who need any example app or feature. The best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on jogendra.iitbhu@gmail.com
+- Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on imjog24@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 ## iOS Apps that Take Part in Google Summer of Code
@@ -20,6 +20,8 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Amahi](https://github.com/amahi/ios) - iOS application written in Swift, from scratch.
 * [Phimp.me](https://github.com/imjog/phimpme-iOS) - Photo Image Editor and Sharing App.
+* [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
+* [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk) - The Matrix SDK for iOS.
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
@@ -58,6 +60,8 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Social Logins](https://github.com/imjog/Social-Logins-iOS) - Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose.
 * [Awesome ML](https://github.com/eugenebokhan/Awesome-ML) - Discover, download, compile & launch different image processing CoreML models on iOS.
 * [Next Cloud](https://github.com/nextcloud/ios) - The Nextcloud iOS app allows you to access all your files on your Nextcloud. A safe home for all your data.
+* [Applozic iOS Swift Chat](https://github.com/AppLozic/ApplozicSwift) - Chat app sample and chat SDK to integrate into your iOS swift app.
+* [Kommunicate iOS Chat](https://github.com/Kommunicate-io/Kommunicate-iOS-SDK) - Kommunicate.io support chat SDK to integrate live chat and bot integrations for customer support into your iOS app.
 
 ## Author
 
@@ -84,7 +88,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 ## Contribution
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
-- If you have any issue or want **help**, please drop me a mail on jogendra.iitbhu@gmail.com
+- If you have any issue or want **help**, please drop me a mail on imjog24@gmail.com@gmail.com
 
 ### Inspired by:
 [Awesome iOS](https://github.com/vsouza/awesome-ios)
