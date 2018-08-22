@@ -57,6 +57,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - Simple and beautiful barcode scanner.
 * [Social Logins](https://github.com/imjog/Social-Logins-iOS) - Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose.
 * [Awesome ML](https://github.com/eugenebokhan/Awesome-ML) - Discover, download, compile & launch different image processing CoreML models on iOS.
+* [Next Cloud](https://github.com/nextcloud/ios) - The Nextcloud iOS app allows you to access all your files on your Nextcloud. A safe home for all your data.
 
 ## Author
 
