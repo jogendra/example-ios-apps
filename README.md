@@ -19,7 +19,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Open Food Facts iOS](https://github.com/openfoodfacts/openfoodfacts-ios) - iOS version (Swift) of Open Food Facts.
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Amahi](https://github.com/amahi/ios) - iOS application written in Swift, from scratch.
-* [Phimp.me](https://github.com/imjog/phimpme-iOS) - Photo Image Editor and Sharing App.
+* [Phimp.me](https://github.com/jogendra/phimpme-iOS) - Photo Image Editor and Sharing App.
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk) - The Matrix SDK for iOS.
 
@@ -88,7 +88,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 ## Contribution
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
-- If you have any issue or want **help**, please drop me a mail on imjog24@gmail.com@gmail.com
+- If you have any issue or want **help**, please drop me a mail on jogendra.kumar.phy15@iitbhu.ac.in
 
 ### Inspired by:
 [Awesome iOS](https://github.com/vsouza/awesome-ios)
