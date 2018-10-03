@@ -66,6 +66,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Wire iOS](https://github.com/wireapp/wire-ios) - The Wire mobile app has an architectural layer that we call sync engine . It is the client-side layer that processes all the data that is displayed in the mobile app.
 * [AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, and analysis platform for iOS.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
+* [Recipes App](https://github.com/onmyway133/Recipes) - An app that showcases many recipes together with their detail information
 
 ## Author
 
