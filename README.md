@@ -68,7 +68,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [2048](https://github.com/austinzheng/swift-2048 ) - A working port of 2048 to Swift
 * [Recipes App](https://github.com/onmyway133/Recipes) - An app that showcases many recipes together with their detail information
-
+* [PixPic](https://github.com/Yalantis/PixPic) - Photo editing app
 ## Author
 
 <table>
