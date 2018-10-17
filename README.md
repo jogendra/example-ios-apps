@@ -70,7 +70,9 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Recipes App](https://github.com/onmyway133/Recipes) - An app that showcases many recipes together with their detail information
 * [PixPic](https://github.com/Yalantis/PixPic) - Photo editing app
 * [Brave iOS Browser](https://github.com/brave/browser-ios) - Brave is based on Firefox iOS
-* [Todoey](https://github.com/tiannahenrylewis/Todoey) - To Do App 
+* [Todoey](https://github.com/tiannahenrylewis/Todoey) - To Do App
+* [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - Official Wikipedia iOS App
+
 ## Author
 
 <table>
