@@ -72,7 +72,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [Brave iOS Browser](https://github.com/brave/browser-ios) - Brave is based on Firefox iOS
 * [Todoey](https://github.com/tiannahenrylewis/Todoey) - To Do App 
 * [VLC](https://github.com/videolan/vlc-ios) - Official VLC iOS & tvOS App
-* [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - Official Wikipedia iOS App
+
 ## Author
 
 <table>
