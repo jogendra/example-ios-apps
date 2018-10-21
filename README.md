@@ -7,7 +7,7 @@
 A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
-Example-iOS-Apps is an amazing list for people who are begginers and learning ios development and for ios developers who need any example app or feature. The best ways to use are:
+Example-iOS-Apps is an amazing list for people who are begginers and learning iOS development and for iOS developers who need any example app or feature. The best ways to use are:
 - Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on jogendra.iitbhu@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
@@ -70,8 +70,9 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Recipes App](https://github.com/onmyway133/Recipes) - An app that showcases many recipes together with their detail information
 * [PixPic](https://github.com/Yalantis/PixPic) - Photo editing app
 * [Brave iOS Browser](https://github.com/brave/browser-ios) - Brave is based on Firefox iOS
-* [Todoey](https://github.com/tiannahenrylewis/Todoey) - To Do App
 * [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - Official Wikipedia iOS App
+* [Todoey](https://github.com/tiannahenrylewis/Todoey) - To Do App 
+* [VLC](https://github.com/videolan/vlc-ios) - Official VLC iOS & tvOS App
 
 ## Author
 
