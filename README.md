@@ -73,6 +73,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - Official Wikipedia iOS App
 * [Todoey](https://github.com/tiannahenrylewis/Todoey) - To Do App 
 * [VLC](https://github.com/videolan/vlc-ios) - Official VLC iOS & tvOS App
+* [Dailyfeed](https://github.com/paulsumit1993/DailyFeed) - iOS client for newsapi.org
 
 ## Author
 
