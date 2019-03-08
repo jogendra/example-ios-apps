@@ -16,6 +16,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [SUSI iOS](https://github.com/fossasia/susi_iOS) - SUSI AI iOS app by FOSSASIA.
 * [Open Event Orga iOS](https://github.com/fossasia/open-event-orga-iOS) - Event management app for organizers using Open Event Platform by FOSSASIA
 * [Open Event iOS](https://github.com/fossasia/open-event-ios) - Open Event iOS app by FOSSASIA.
+* [Badge Magic iOS]() - Badge Magic is an Android app to control LED name badges. The goal is to provide options to portray names, graphics and simple animations on LED badges. For the data transfer from the smartphone to the LED badge we use Bluetooth. 
 * [Powerup iOS](https://github.com/systers/powerup-iOS) - PowerUp is an educational choose-your-own-adventure game that utilizes a users uploaded curriculum to empower pre-adolescents to take charge of their reproductive health. This is the iOS version of the game.
 * [Open Food Facts iOS](https://github.com/openfoodfacts/openfoodfacts-ios) - iOS version (Swift) of Open Food Facts.
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
