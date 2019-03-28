@@ -1,3 +1,3 @@
 //example ios apps
-//Jogemdra Singh
+//Jogemdra Kumar
 print("Welcome to iOS World!")
