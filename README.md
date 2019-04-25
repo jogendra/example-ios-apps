@@ -1,6 +1,6 @@
 # Example iOS Apps
 ![Language](https://img.shields.io/badge/language-Swift%203-orange.svg)
-[![Twitter](https://img.shields.io/badge/twitter-@imjog24-blue.svg?style=flat)](https://twitter.com/imjog24)
+[![Twitter](https://img.shields.io/badge/twitter-@jogendrafx-blue.svg?style=flat)](https://twitter.com/jogendrafx)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&style=flat-square)]()
 [![HitCount](http://hits.dwyl.io/imjog/example-ios-apps.svg)](http://hits.dwyl.io/imjog/example-ios-apps)<br>
@@ -8,7 +8,7 @@ A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
 Example-iOS-Apps is an amazing list for people who are begginers and learning iOS development and for iOS developers who need any example app or feature. The best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/imjog24) or drop us a mail on jogendra.iitbhu@gmail.com
+- Ask for help on our [Twitter](https://twitter.com/jogendrafx) or drop us a mail on jogendra.iitbhu@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 ## iOS Apps that Take Part in Google Summer of Code
@@ -88,7 +88,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 
 <p align="center">
 <a href = "https://github.com/jogendra"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/imjog24"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://twitter.com/jogendrafx"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
 <a href = "https://www.linkedin.com/in/jogendrasingh24/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
