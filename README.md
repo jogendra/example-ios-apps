@@ -24,6 +24,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [Phimp.me](https://github.com/jogendra/phimpme-iOS) - Photo Image Editor and Sharing App.
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk) - The Matrix SDK for iOS.
+* [AOSSIE](http://aossie.org/) - Australian Open Source Software Innovation and Education
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
