@@ -25,6 +25,9 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk) - The Matrix SDK for iOS.
 
+## iOS Apps that written with SwiftUI
+* [Reddit-SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI 
+
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
 * [Stopwatch](https://github.com/imjog/stopwatch) - Basic Stop Watch & Countdown app for iOS devices. Created for learning purpose.
