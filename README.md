@@ -27,6 +27,12 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 
 ## iOS Apps that written with SwiftUI
 * [Reddit-SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI 
+* [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI
+* [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
+* [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB) - SwiftUI MovieDB prototype app
+* [SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
+* [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
+* [HNNow](https://github.com/nathfreder/HNNow) - Hacker News reader for iOS and iPadOS built with SwiftUI
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
