@@ -87,6 +87,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [Dailyfeed](https://github.com/paulsumit1993/DailyFeed) - iOS client for newsapi.org
 * [iOSSampleApp](https://github.com/igorkulman/iOSSampleApp) - Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding
 * [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone
+* [Alamofire-Example-Starwars](https://github.com/camiloibarrayepes/AlamofireStarWarsExample) - Learn alamofire with a funny example about Start Wars
 
 ## Author
 
