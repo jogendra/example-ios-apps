@@ -33,6 +33,9 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
 * [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
 * [HNNow](https://github.com/nathfreder/HNNow) - Hacker News reader for iOS and iPadOS built with SwiftUI
+* [SwiftUIViewTextStack](https://github.com/rebeloper/SwiftUIViewTextStack) - How to create views, text and stacks with SwiftUI
+
+
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
