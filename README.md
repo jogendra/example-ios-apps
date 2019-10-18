@@ -34,7 +34,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI and Combine based GitHubSearch example.
 * [HNNow](https://github.com/nathfreder/HNNow) - Hacker News reader for iOS and iPadOS built with SwiftUI
 * [SwiftUIViewTextStack](https://github.com/rebeloper/SwiftUIViewTextStack) - How to create views, text and stacks with SwiftUI
-
+* [Animatable Cards](https://github.com/ivanvorobei/SwiftUI#animatable-cards) - Examples projects using SwiftUI & Combine to animatable cards
 
 
 ## Content
