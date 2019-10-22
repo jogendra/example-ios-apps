@@ -7,7 +7,7 @@
 A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
-Example-iOS-Apps is an amazing list for people who are begginers and learning iOS development and for iOS developers who need any example app or feature. The best ways to use are:
+Example-iOS-Apps is an amazing list for people who are beginners and learning iOS development and for iOS developers who need any example app or feature. The best ways to use are:
 - Ask for help on our [Twitter](https://twitter.com/jogendrafx) or drop us a mail on jogendra.iitbhu@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
@@ -36,7 +36,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [SwiftUIViewTextStack](https://github.com/rebeloper/SwiftUIViewTextStack) - How to create views, text and stacks with SwiftUI
 * [Animatable Cards](https://github.com/ivanvorobei/SwiftUI#animatable-cards) - Examples projects using SwiftUI & Combine to animatable cards
 * [swiftui-notes](https://github.com/heckj/swiftui-notes) - A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine.
-
+* [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery) - Gallery App for Harvest (Elm Architecture + Optics) + SwiftUI + Combine.
 
 
 ## Content
@@ -93,6 +93,8 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning iO
 * [iOSSampleApp](https://github.com/igorkulman/iOSSampleApp) - Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding
 * [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone
 * [Alamofire-Example-Starwars](https://github.com/camiloibarrayepes/AlamofireStarWarsExample) - Learn alamofire with a funny example about Start Wars
+* [Sorting Algorithms App](https://github.com/victorpanitz/iOS-SortingAlgorithmsApp) - An open source app focused on show in a visual way how sorting algorithms actually works.
+* [App Store Clone](https://github.com/phillfarrugia/appstore-clone) - An experimental clone of the new iOS 11 App Store app.
 
 ## Author
 
