@@ -37,6 +37,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Animatable Cards](https://github.com/ivanvorobei/SwiftUI#animatable-cards) - Examples projects using SwiftUI & Combine to animatable cards
 * [swiftui-notes](https://github.com/heckj/swiftui-notes) - A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine.
 * [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery) - Gallery App for Harvest (Elm Architecture + Optics) + SwiftUI + Combine.
+* [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
 
 
 ## Content
