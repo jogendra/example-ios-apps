@@ -97,6 +97,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Alamofire-Example-Starwars](https://github.com/camiloibarrayepes/AlamofireStarWarsExample) - Learn alamofire with a funny example about Start Wars
 * [Sorting Algorithms App](https://github.com/victorpanitz/iOS-SortingAlgorithmsApp) - An open source app focused on show in a visual way how sorting algorithms actually works.
 * [App Store Clone](https://github.com/phillfarrugia/appstore-clone) - An experimental clone of the new iOS 11 App Store app.
+* [Podcasts](https://github.com/Karambirov/Podcasts.git) - A clone of Apple's Podcasts.
 
 ## Author
 
