@@ -11,6 +11,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 - Ask for help on our [Twitter](https://twitter.com/jogendrafx) or drop us a mail on jogendra.iitbhu@gmail.com
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
+
 ## iOS Apps that Take Part in Google Summer of Code
 * [Rocket.Chat.iOS](https://github.com/imjog/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
 * [SUSI iOS](https://github.com/fossasia/susi_iOS) - SUSI AI iOS app by FOSSASIA.
@@ -39,7 +40,12 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [swiftui-notes](https://github.com/heckj/swiftui-notes) - A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine.
 * [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery) - Gallery App for Harvest (Elm Architecture + Optics) + SwiftUI + Combine.
 * [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
+* [8 Ball](https://github.com/fulldecent/8-ball) - A fully working iOS + watchOS game to make life choices
 
+## iOS Apps written with SceneKit
+* [Pizza Man](https://github.com/fulldecent/pizzaman) - A simple game where you eat flying pepperoni
+
+SceneKit, fully open source, and for sale on App Store
 
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
