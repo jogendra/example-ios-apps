@@ -45,8 +45,6 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 ## iOS Apps written with SceneKit
 * [Pizza Man](https://github.com/fulldecent/pizzaman) - A simple game where you eat flying pepperoni
 
-SceneKit, fully open source, and for sale on App Store
-
 ## Content
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
 * [Stopwatch](https://github.com/imjog/stopwatch) - Basic Stop Watch & Countdown app for iOS devices. Created for learning purpose.
