@@ -41,6 +41,8 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery) - Gallery App for Harvest (Elm Architecture + Optics) + SwiftUI + Combine.
 * [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
 * [8 Ball](https://github.com/fulldecent/8-ball) - A fully working iOS + watchOS game to make life choices
+* [AC Helper](https://github.com/Dimillian/ACHNBrowserUI) - Animal Crossing New Horizon companion app in SwiftUI
+* [Puffery](https://github.com/vknabel/puffery) - An iOS App written in SwiftUI to send push notifications fueled by Siri Shortcuts
 
 ## iOS Apps written with SceneKit
 * [Pizza Man](https://github.com/fulldecent/pizzaman) - A simple game where you eat flying pepperoni
