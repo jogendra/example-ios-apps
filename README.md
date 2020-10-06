@@ -106,6 +106,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Podcasts](https://github.com/Karambirov/Podcasts.git) - A clone of Apple's Podcasts.
 * [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS) - Pixel Editor app that uses `UIDocument`, `UIDocumentBrowserViewController`, `Metal`, `UndoManager`.
 * [Player](https://github.com/piemonte/Player) -  video player in Swift, simple way to play and stream media on iOS/tvOS.
+* [ProgressGif](https://github.com/aheze/ProgressGif) - Add progress bars to gifs. Realm for project storage + Real time video editor + Renderer.
 
 ## Author
 
