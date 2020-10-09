@@ -23,7 +23,6 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Amahi](https://github.com/amahi/ios) - iOS application written in Swift, from scratch.
 * [Phimp.me](https://github.com/jogendra/phimpme-iOS) - Photo Image Editor and Sharing App.
-* [Catty](https://github.com/Catrobat/Catty) - iOS implementation of the Catrobat language.
 * [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk) - The Matrix SDK for iOS.
 * [Kiwix Apple](https://github.com/kiwix/apple) - iOS and macOS implementation of Kiwix.
 
