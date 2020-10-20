@@ -107,6 +107,8 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Player](https://github.com/piemonte/Player) -  video player in Swift, simple way to play and stream media on iOS/tvOS.
 * [ProgressGif](https://github.com/aheze/ProgressGif) - Add progress bars to gifs. Realm for project storage + Real time video editor + Renderer.
 * [Telegram](https://github.com/TelegramMessenger/Telegram-iOS) - Official Telegram Messenger for iOS
+* [CaptchaDemo](https://github.com/tanvijn/CaptchaDemo_ios) - A LightWeight Swift project to showcase implementation of Google ReCaptcha in iOS Application.
+
 
 ## Author
 
