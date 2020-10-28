@@ -42,6 +42,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [8 Ball](https://github.com/fulldecent/8-ball) - A fully working iOS + watchOS game to make life choices
 * [AC Helper](https://github.com/Dimillian/ACHNBrowserUI) - Animal Crossing New Horizon companion app in SwiftUI
 * [Puffery](https://github.com/vknabel/puffery) - An iOS App written in SwiftUI to send push notifications fueled by Siri Shortcuts
+* [KHabit](https://github.com/elkiwy/khabit) - a pure and minimalistic app which helps you maintain productive habits, and nothing more.
 
 ## iOS Apps written with SceneKit
 * [Pizza Man](https://github.com/fulldecent/pizzaman) - A simple game where you eat flying pepperoni
