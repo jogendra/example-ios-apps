@@ -43,7 +43,8 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [AC Helper](https://github.com/Dimillian/ACHNBrowserUI) - Animal Crossing New Horizon companion app in SwiftUI
 * [Puffery](https://github.com/vknabel/puffery) - An iOS App written in SwiftUI to send push notifications fueled by Siri Shortcuts
 * [KHabit](https://github.com/elkiwy/khabit) - a pure and minimalistic app which helps you maintain productive habits, and nothing more.
-
+* [FootNote](https://github.com/cambardell/Footnote) - a SWIFTUI + Core Data IOS app built during Hacktoberfest2020 open source developers.
+   
 ## iOS Apps written with SceneKit
 * [Pizza Man](https://github.com/fulldecent/pizzaman) - A simple game where you eat flying pepperoni
 
