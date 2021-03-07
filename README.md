@@ -27,6 +27,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Kiwix Apple](https://github.com/kiwix/apple) - iOS and macOS implementation of Kiwix.
 
 ## iOS Apps that written with SwiftUI
+* [Blackjack-SwiftUI](https://github.com/Caldarie/blackjack) - Demonstration blackjack app on how to intergrate swiftUI with MVVM.
 * [Reddit-SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI 
 * [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI
 * [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
