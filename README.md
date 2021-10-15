@@ -116,6 +116,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Telegram](https://github.com/TelegramMessenger/Telegram-iOS) - Official Telegram Messenger for iOS
 * [CaptchaDemo](https://github.com/tanvijn/CaptchaDemo_ios) - A LightWeight Swift project to showcase implementation of Google ReCaptcha in iOS Application.
 * [CalendarApp](https://github.com/richardtop/CalendarApp) - A sample app similar to iOS Calendar, built with CalendarKit in less than 100 lines of code.
+* [Habitica](https://github.com/HabitRPG/habitica-ios) - Habit building & productivity app.
 
 
 ## Author
