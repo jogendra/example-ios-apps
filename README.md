@@ -2,8 +2,7 @@
 ![Language](https://img.shields.io/badge/language-Swift%203-orange.svg)
 [![Twitter](https://img.shields.io/badge/twitter-@jogendrafx-blue.svg?style=flat)](https://twitter.com/jogendrafx)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&style=flat-square)]()
-[![HitCount](http://hits.dwyl.io/imjog/example-ios-apps.svg)](http://hits.dwyl.io/imjog/example-ios-apps)<br>
+[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&style=flat-square)]()<br>
 A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
