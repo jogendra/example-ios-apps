@@ -52,6 +52,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 
 ## watchOS Apps that written with SwiftUI
 * [Countio](https://github.com/dhanrajdc7/Countio) - Countio is simple WatchOS App made with Swiftly SwiftUI. You can count anything quickly with Countio!!!
+* [Waterminder](https://github.com/caiobzen/water-reminder-swiftui) - A simple Apple Watch app to remind you to drink water!
    
 ## iOS Apps written with SceneKit
 * [Pizza Man](https://github.com/fulldecent/pizzaman) - A simple game where you eat flying pepperoni
