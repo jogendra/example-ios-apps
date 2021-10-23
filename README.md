@@ -13,7 +13,6 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 - Go through our *Content Menu*
 
 ## iOS Apps that Take Part in Google Summer of Code
-* [Rocket.Chat.iOS](https://github.com/imjog/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
 * [SUSI iOS](https://github.com/fossasia/susi_iOS) - SUSI AI iOS app by FOSSASIA.
 * [Open Event Orga iOS](https://github.com/fossasia/open-event-orga-iOS) - Event management app for organizers using Open Event Platform by FOSSASIA
 * [Open Event iOS](https://github.com/fossasia/open-event-ios) - Open Event iOS app by FOSSASIA.
