@@ -23,6 +23,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Phimp.me](https://github.com/jogendra/phimpme-iOS) - Photo Image Editor and Sharing App.
 * [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk) - The Matrix SDK for iOS.
 * [Kiwix Apple](https://github.com/kiwix/apple) - iOS and macOS implementation of Kiwix.
+* [Monumento](https://gitlab.com/aossie/monumento-ipad) - iPadOS app to visualise monuments around the globe.
 
 ## iOS Apps that written with SwiftUI
 * [Reddit-SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI 
@@ -46,7 +47,6 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - AR Headset experience with touchscreen settings interface built in SwiftUI.
 * [isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 * [Clendar](https://github.com/vinhnx/Clendar) - Universal calendar app. Written in SwiftUI.
-* [Corona-Widget](https://github.com/aaryankotharii/Corona-Widget) - A Covid-19 Tracking Widget. Written in SwiftUI.
 
 ## watchOS Apps that written with SwiftUI
 * [Countio](https://github.com/dhanrajdc7/Countio) - Countio is simple WatchOS App made with Swiftly SwiftUI. You can count anything quickly with Countio!!!
