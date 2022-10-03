@@ -126,7 +126,6 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Expense Tracker](https://github.com/abdorizak/Expensive-Tracker-App) - Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income
 
 
-
 ## Author
 
 <table>
