@@ -123,6 +123,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Habitica](https://github.com/HabitRPG/habitica-ios) - Habit building & productivity app.
 * [PIA VPN](https://github.com/pia-foss/vpn-ios) - VPN App by Private Internet Access.
 * [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+* [Expense Tracker](https://github.com/abdorizak/Expensive-Tracker-App) - Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income
 
 
 ## Author
