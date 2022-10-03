@@ -23,6 +23,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Phimp.me](https://github.com/jogendra/phimpme-iOS) - Photo Image Editor and Sharing App.
 * [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk) - The Matrix SDK for iOS.
 * [Kiwix Apple](https://github.com/kiwix/apple) - iOS and macOS implementation of Kiwix.
+* [Monumento](https://gitlab.com/aossie/monumento-ipad) - iPadOS app to visualise monuments around the globe.
 
 ## iOS Apps that written with SwiftUI
 * [Reddit-SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI 
