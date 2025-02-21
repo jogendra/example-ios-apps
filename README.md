@@ -125,6 +125,8 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [PIA VPN](https://github.com/pia-foss/vpn-ios) - VPN App by Private Internet Access.
 * [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 * [Expense Tracker](https://github.com/abdorizak/Expensive-Tracker-App) - Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income
+* [Mt.Tip](https://github.com/csprasad/Mr-Tip) - Mr. Tip is a sleek iOS app built with Swift to quickly calculate tips and split bills.
+
 
 
 ## Author
