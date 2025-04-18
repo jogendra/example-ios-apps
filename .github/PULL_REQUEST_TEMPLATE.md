@@ -4,7 +4,7 @@
 <!--- The project URL -->
 
 ## Description
-<!--- Describe your changes in detail -->
+<!--- This is a sample test -->
  
 ## Why it should be included to `example-ios-apps` (optional)
 
