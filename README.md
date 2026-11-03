@@ -47,6 +47,7 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - AR Headset experience with touchscreen settings interface built in SwiftUI.
 * [isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 * [Clendar](https://github.com/vinhnx/Clendar) - Universal calendar app. Written in SwiftUI.
+* [Oath Wallet](https://github.com/devdasx/oath-wallet) - Cryptocurrency wallet for iPhone and iPad built with Swift and SwiftUI, with balances, transaction history, send/receive, and watch-only wallets.
 
 ## watchOS Apps that written with SwiftUI
 * [Countio](https://github.com/dhanrajdc7/Countio) - Countio is simple WatchOS App made with Swiftly SwiftUI. You can count anything quickly with Countio!!!
